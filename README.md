@@ -34,3 +34,12 @@ All settings values are shown is the console for you to reuse in other OpenCV pr
 |    L     | Enable live view (Camera will be reserved by this script) |
 |    l     | Disable live view (Camera will be usable by other apps while still allowing settings) |
 
+# Samples value
+
+| Camera model   |  Brightness  |   Exposure    |    Contrast  |      Focus    |
+| -------------- | :----------: | :-----------: | :----------: | :-----------: |
+| Surface book 2
+   Front camera  | -130 to +130 |    -2 to 11   | -130 to +130 | Not available |
+| Surface book 2
+   Rear camera   | -130 to +130 |    -9 to -3.5 | -130 to +130 | 600 (close) to 0 (far) |
+| Logitech C270  |    0 to 255  |     0 to -6   |    0 to 255  | Not available |

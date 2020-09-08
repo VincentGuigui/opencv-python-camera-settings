@@ -1,16 +1,17 @@
 import cv2
 import numpy as np
 
-#-2 (bright) -11(dark)
+
+#Example -2 (bright) -11(dark)
 exposure=-5
 
-#-130 (dark) +130(bright)
+#Example -130 (dark) +130(bright)
 brightness=0
 
-#-130 (dark) +130(bright)
+#Example -130 (dark) +130(bright)
 contrast=0
 
-#0 - 500
+#Example 0 - 500
 focus=0
 
 #0 to N (camera index, 0 is the default OS main camera)
