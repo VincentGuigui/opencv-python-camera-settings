@@ -22,6 +22,7 @@ All settings values are shown is the console for you to reuse in other OpenCV pr
 ## Keyboard shortcuts
 | Shortcut | Action |
 | :------: | ------ | 
+|    S     | Open DirectShow Camera settings|
 |    B     | Increase brightness |
 |    b     | Decrease brightness |
 |    E     | Increase exposure |
